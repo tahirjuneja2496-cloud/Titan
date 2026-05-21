@@ -1,0 +1,8 @@
+{
+  "name": "Titan Fitness",
+  "description": "Premium luxury fitness gym membership, booking, trainer management, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
